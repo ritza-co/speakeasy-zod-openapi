@@ -13,8 +13,6 @@
     Speakeasy Zod OpenAPI Example
 </h1>
 
-</div>
-
 This example Zod schema demonstrates Speakeasy-recommended practices for generating clear OpenAPI specifications.
 
 ## Requirements
